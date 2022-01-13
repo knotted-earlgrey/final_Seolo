@@ -4,7 +4,6 @@ public class PageDTO
 {
 	
 	private int start, end;
-	private String notice_check;
 
 	public int getStart()
 	{
@@ -25,16 +24,8 @@ public class PageDTO
 	{
 		this.end = end;
 	}
-
-	public String getNotice_check()
-	{
-		return notice_check;
-	}
-
-	public void setNotice_check(String notice_check)
-	{
-		this.notice_check = notice_check;
-	}
+	
+	
 	
 
 }

@@ -5,21 +5,10 @@
 
 <mapper namespace="com.seolo.idao.IAccountListDAO">
 
-	<select id="list" resultType="com.seolo.dto.AccountListDTO"> 
-    <![CDATA[      
+	<select id="list" resultType="com.seolo.dto.AccountListDTO">   
         SELECT PE_ID, NICKNAME, NAME, EMAIL, PEDATE, AC_NO
-		FROM
-		(
-		    SELECT ROWNUM RNUM, DATA.*
-		    FROM
-		    (
-		        SELECT PE_ID, NICKNAME, NAME, EMAIL, PEDATE, AC_NO
-				FROM PERSONAL
-				ORDER BY AC_NO DESC
-		    ) DATA
-		)
-		WHERE RNUM >=#{start} AND RNUM <= #{end}
-   	]]>	
+		FROM PERSONAL
+		ORDER BY AC_NO
 	</select>
 		
 	<select id="count" resultType="java.lang.Integer">

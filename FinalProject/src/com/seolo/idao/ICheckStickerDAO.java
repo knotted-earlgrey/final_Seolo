@@ -8,7 +8,7 @@ package com.seolo.idao;
 
 import java.util.ArrayList;
 
-import com.seolo.dto.StickerDTO;
+import com.seolo.check.StickerDTO;
 
 public interface ICheckStickerDAO
 {
