@@ -40,11 +40,12 @@ More information is in folder [detail] - Project proposal, Requirement analysis,
 ## Screenshot & Explanation 🖥
 - 전체 시연 영상 : https://youtu.be/4EdCT1Trjko <br><br>
 - 메인화면<br>
-<img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/main2.PNG?raw=true" style="width: 48%"><br>
+<img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/main2.PNG?raw=true" style="width: 48%"> <img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/login.PNG?raw=true" style="width: 48%"><br>
 ```sh
 <메인화면>
 최신 공지사항 3개까지 조회 가능
 북마크 횟수 기준으로 인기 체크리스트, 인기 지역정보 측정 후 상위 5개 노출
+상단바 로그인 및 자동로그인
 ```
 <br>
 
