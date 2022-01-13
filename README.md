@@ -7,7 +7,6 @@
 1인 가구의 식사, 주거, 안전 등 정보 수집을 위한 체크리스트 작성 및 조회, 공동구매 진행 커뮤니티 개발
 
 Project View : 
-
 <img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/main.png?raw=true"><br><br>
 
 
@@ -39,6 +38,7 @@ More information is in folder [detail] - Project proposal, Requirement analysis,
 <br>
 
 ## Screenshot & Explanation 🖥
+- 전체 시연 영상 : https://youtu.be/4EdCT1Trjko <br><br>
 - 메인화면<br>
 <img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/main2.PNG?raw=true" style="width: 48%"><br>
 ```sh
