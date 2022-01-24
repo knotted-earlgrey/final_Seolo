@@ -39,6 +39,8 @@ More information is in folder [detail] - Project proposal, Requirement analysis,
 
 ## Screenshot & Explanation 🖥
 - 전체 시연 영상 : https://youtu.be/4EdCT1Trjko <br><br>
+
+### 담당 기능 소개
 - 메인화면<br>
 <img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/main2.PNG?raw=true" style="width: 48%"> <img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/login.PNG?raw=true" style="width: 48%"><br>
 ```sh
