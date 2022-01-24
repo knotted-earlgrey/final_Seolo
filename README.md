@@ -80,6 +80,14 @@ More information is in folder [detail] - Project proposal, Requirement analysis,
 ```
 <br>
 
+- 스티커 추가/삭제<br>
+<img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/sticker1.png?raw=true" style="width: 48%"> <img src="https://github.com/knotted-earlgrey/final_Seolo/blob/master/notice/sticker2.png" style="width: 48%"><br>
+```sh
+<체크리스트 - 스티커 추가/삭제>
+개인이 작성한 체크리스트, 북마크 한 체크리스트, 북마크 한 지역정보에 스티커 부착 가능
+(부착한 스티커를 통해 정보의 분류 가능, 조회의 간편함 제공)
+새로운 스티커 추가, 기존에 작성한 스티커 추가, 추가한 스티커 삭제 가능
+```
 
 ## Contact 📞
 email address : cheezoo86@naver.com
